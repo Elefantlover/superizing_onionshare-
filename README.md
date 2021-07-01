@@ -1,6 +1,6 @@
 # superizing onionshare
 
-this is an awesome...
+this is an awesome project
 
 
 - bullet point 1
